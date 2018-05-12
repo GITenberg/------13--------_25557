@@ -1,0 +1,35 @@
+_repo: '------13--------_25557'
+_version: 0.1.0
+alternative_title: "Taiwan Tong Shi\r\nTang Shan Guo Hai De Gu Shi"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lian, Heng
+    aliases:
+    - 連橫
+    - Lien, Wu-kung
+    - 連雅堂
+    - Lien, Heng
+    - Lian, Yatang
+    - Lian, Wugong
+    - 連武公
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '31421'
+    url: http://www.gutenberg.org/2009/agents/31421
+description: ''
+gutenberg_issued: '2008-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25557'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Taiwan -- History'
+title: "臺灣通史\r\n唐山過海的故事"
+url: http://www.gutenberg.org/ebooks/25557
